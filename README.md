@@ -4,7 +4,6 @@
   
 - 👀 I’m interested in games and programming
 - 🌱 I’m currently learning java, c++, javascript...
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my email or discord
 
 
