@@ -1,3 +1,5 @@
+Gamer, programmer, home lab and network enthusiast
+
 👋 Hi, I’m @LagManCZ  
 🌐 My website: www.lagman.eu  
 ⌚ Wakatime account: www.wakatime.com/@LagManCZ  
